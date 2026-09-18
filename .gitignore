@@ -43,3 +43,6 @@ mobile/android/app/*.iml
 # Temporary files
 *.tmp
 *.temp
+
+# Release APK
+TodoApp.apk
